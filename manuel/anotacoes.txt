@@ -1,0 +1,15 @@
+++ concatena listas
+[1,2,3] ++ [3,2,1] = [1,2,3,3,2,1]
+
+-- remove uma lista de outra
+[1,2,3] -- [2] = [1,3]
+
+div é divisao de inteiros
+/  é divisao de float
+rem é o equivalente de %
+
+IO.puts é o print
+
+String.lenght conta o tamanho certo
+byte_size conta o número literal de bytes 
+
